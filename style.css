@@ -64,9 +64,9 @@ li.nav-links a:hover {
 }
 
 #form-search {
-  width: 200px;
+  width: 500px;
   line-height: 32px;
-  padding: 20px 10px;
+  padding: 30px 20px;
 }
 
 .form #form-search {
@@ -106,5 +106,8 @@ footer ul a:hover {
 }
 
 .footer-right {
+  float: right;
+}
+.franch{
   float: right;
 }
