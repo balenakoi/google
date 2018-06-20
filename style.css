@@ -106,7 +106,8 @@ footer ul a:hover {
 }
 
 .footer-right {
-  float: right;
+  position: relative;
+    left: 30em;
 }
 .France{
   width: 100%;
