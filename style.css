@@ -118,7 +118,7 @@ footer ul a:hover {
 
 @media screen and (max-width: 400px) {
 
- li.nav-links a {
+ li.nav-links a, .material-icons, #sign_in ,#form-search, .footer-left, .footer-right{
 
     display: inline-block;
   }
