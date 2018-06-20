@@ -119,6 +119,6 @@ footer ul a:hover {
 @media screen and (max-width: 400px) {
 
  li.nav-links a {
-    display: none;
+
+    display: inline-block;
   }
-}
